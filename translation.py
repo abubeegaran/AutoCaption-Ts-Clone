@@ -8,7 +8,7 @@ class Translation(object):
 I am a simple auto caption bot
 I can automatically add pre-setted caption to the files in channels
 
-I am currently working for a channel if you want to use me, Use my source code and Deploy me
+I am currently working for a channel,you cannot use me,
 
 ⚜️ Maintained By 👉 @{}
 """    
@@ -28,7 +28,6 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 👉 Forward your files in your channel and I will edit it
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 """    
               
 
@@ -38,7 +37,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts Bots](https://t.me/Anylink_Movies)
+○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts clone](https://t.me/textmeviatelegram)
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -48,17 +47,8 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.1.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
-
 ○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio)
  
-__ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀɴᴅ ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴛɪᴍᴇ ɪ ᴀᴍ ɢɪᴠɪɴɢ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ʙᴏᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜɪᴄʜ ᴡᴀs ᴡʀɪᴛᴇʀ ɪɴ ᴍʏ ᴏᴡɴ ʜᴀɴᴅs, sᴏ ɪғ ᴀɴʏ ʙᴜɢs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sᴀʏ
-ɪᴛ ᴍᴀʏ ʙᴇ ɴᴏᴛ ᴛʜᴇ ʙᴇsᴛ ʙᴜᴛ ғᴏʀ ᴍᴇ ɪᴛ ɪs ᴛʜᴇ ʙᴇsᴛ 🥰
-
-ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
-
 """
 
       MARKDOWN_TEXT = """
@@ -80,9 +70,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
-
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+📌 <code>[hyperlink_text](https://t.me/opkurama)</code> 
 
 """
 
@@ -98,16 +86,12 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
-
 """
 
       NOT_ADMIN_TEXT = """
 
 🔰 <u>𝐒𝐎𝐑𝐑𝐘</u>
 
-Only my admin can see my status, if you want this bot you can take my source code and deploy it. 
-
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+Only my admin can see my status, if you want this bot check creator's channel. 
 
 """
